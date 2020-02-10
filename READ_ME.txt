@@ -1,4 +1,5 @@
 Compute Lagrangian advection and several mixing diagnoses, from synthetic and real oceanographic data.
+For real satellite image tests, globcurrent data can be used.
 
 This codes needs the MATLAB image processing toolbox.
 Launch the script main.m to execute the algorithm.
