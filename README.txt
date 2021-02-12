@@ -8,3 +8,6 @@ Plots and MAT-files are saved each day of simulation in the folder images.
 Several parameters can be changed easily in the beginning of the script main.m.
 
 The pdf is a NOT-published draft which is associated with the code.
+
+More information here:
+https://sites.google.com/view/valentinresseguier/projects 
